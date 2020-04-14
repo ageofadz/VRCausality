@@ -2826,7 +2826,7 @@ MonoBehaviour:
   diagram: {fileID: 270872205}
   redText: {fileID: 721037720}
   option1: 0
-  tutorialBypass: 1
+  tutorialBypass: 0
   rai: 0
   ballGrabbed: 0
   path: Assets/Resources/Output.txt
