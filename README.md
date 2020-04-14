@@ -2,16 +2,16 @@
 Experimental space for testing judgements about action/inaction causality and recency effect.
 
 
-##INSTALL:
+## INSTALL:
 There should be a link to an executable sometime soon. Until then, clone or download this repository and open the project (vrTest1 (1)) in Unity for testing. This project is compatible with Unity 2019.2.7f2.
 
-##USE:
+## USE:
 The scene InteractableObjects in Assets/VRTK/Examples contains the scene for the experimental space. Upon opening, press the play button at the top to begin the test. As of yet, there is no stable build of the game.
 The tutorial audio will immediately begin upon starting the scene. After each initialization of the scene, the condition will cycle between action/early, inaction/early, action/late, and inaction/late.
 
 On Windows, the location of the CSV file containing the experimental data should be C: => Users => [user] => AppData => samrobertson => vrtest1. This file will initialize a new row for each player when the game is launched, and update each cell in the row with information about the current respondent throughout each instance of the experiment. The game may run into issues writing to the file if it is open while the game is running.
 
-##ATTRIBUTIONS:
+## ATTRIBUTIONS:
 
 * [VRTK](http://vrtk.io)
 * [Parks and Nature Pack - Lite](https://assetstore.unity.com/packages/3d/props/parks-and-nature-pack-lite-77362)
