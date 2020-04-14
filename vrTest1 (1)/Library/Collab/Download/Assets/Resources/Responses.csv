@@ -1,0 +1,11 @@
+ResponseID,Recency,Action,Comprehension,Failures,Question Rating,Age,Sex
+
+ue10trt4e0k,Early,Inaction
+yjuud0ucvwb,Early,Inaction,Correct
+t12ogg1zoi9,Late,Action
+1n6809rhw99,Late,Inaction,Correct,0,7,7
+em1y5q9cdyt,Early,Action,Wrong,0,22-25,22-25
+mcnl9c7txwk,Early,Inaction,0,3,3
+651392hu415,Late,Action,0,,18-21,other
+d68zndyaemg,Late,Inaction,0,3,18-21,male
+a01znbphdhr,Early,Action
