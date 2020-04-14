@@ -18,6 +18,6 @@ On Windows, the location of the CSV file containing the experimental data should
 * [Chainlink Fences](https://assetstore.unity.com/packages/3d/chainlink-fences-73107)
 * [Starfield Skybox](https://assetstore.unity.com/packages/2d/textures-materials/sky/starfield-skybox-92717)
 * [Town Houses Pack](https://assetstore.unity.com/packages/3d/environments/urban/town-houses-pack-42717)
-* [Particle Collection SKJ 2016](https://assetstore.unity.com/packages/vfx/particles/particle-collection-skj-2016-free-samples-72399_
+* [Particle Collection SKJ 2016](https://assetstore.unity.com/packages/vfx/particles/particle-collection-skj-2016-free-samples-72399_)
 * [SteamVR](https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647)
 * [Polygonal's Low-Poly Particle Pack](https://assetstore.unity.com/packages/vfx/particles/polygonal-s-low-poly-particle-pack-118355)
